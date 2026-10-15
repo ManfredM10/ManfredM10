@@ -22,15 +22,19 @@ I like turning repetitive, error-prone manual work into small, well-tested tools
 **Security**
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-c8102e?style=flat-square&logo=comptia&logoColor=white)
 ![CCNA Security](https://img.shields.io/badge/Cisco-CCNA_Security-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst_Career_Path_2026-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
 ![IBM QRadar](https://img.shields.io/badge/IBM-QRadar_SIEM-052fad?style=flat-square&logo=ibm&logoColor=white)
 
 **Linux & platforms**
 ![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-c8102e?style=flat-square&logo=comptia&logoColor=white)
 ![Linux System Maintenance](https://img.shields.io/badge/Linux-System_Maintenance-fcc624?style=flat-square&logo=linux&logoColor=black)
+![LFS162](https://img.shields.io/badge/Linux_Foundation-LFS162_Intro_to_DevOps_%26_SRE_2026-003778?style=flat-square&logo=linuxfoundation&logoColor=white)
 ![SRE Academy](https://img.shields.io/badge/IBM-SRE_Academy_2025-052fad?style=flat-square&logo=ibm&logoColor=white)
 
 **Data & programming**
-![Python Essentials](https://img.shields.io/badge/Python-Essentials_2025-3776ab?style=flat-square&logo=python&logoColor=white)
+![Python Essentials 1](https://img.shields.io/badge/Cisco-Python_Essentials_1-3776ab?style=flat-square&logo=python&logoColor=white)
+![Python Essentials 2](https://img.shields.io/badge/Cisco-Python_Essentials_2-3776ab?style=flat-square&logo=python&logoColor=white)
 ![SQL Essential Training](https://img.shields.io/badge/SQL-Essential_Training-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-f2c811?style=flat-square&logo=powerbi&logoColor=black)
 ![Hadoop Essentials](https://img.shields.io/badge/Hadoop-Essentials-66ccff?style=flat-square&logo=apachehadoop&logoColor=black)
