@@ -22,19 +22,19 @@ I like turning repetitive, error-prone manual work into small, well-tested tools
 **Security**
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-c8102e?style=flat-square&logo=comptia&logoColor=white)
 ![CCNA Security](https://img.shields.io/badge/Cisco-CCNA_Security-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst_Career_Path_2026-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
+[![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst_Career_Path_2026-1ba0d7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/d6fa6ad4-4091-4d3f-97a5-197ea2c98cc2/public_url)
+[![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1ba0d7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/ea4cc8b6-7d57-41ec-83a0-2d519aa8d4b0/public_url)
 ![IBM QRadar](https://img.shields.io/badge/IBM-QRadar_SIEM-052fad?style=flat-square&logo=ibm&logoColor=white)
 
 **Linux & platforms**
 ![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-c8102e?style=flat-square&logo=comptia&logoColor=white)
 ![Linux System Maintenance](https://img.shields.io/badge/Linux-System_Maintenance-fcc624?style=flat-square&logo=linux&logoColor=black)
-![LFS162](https://img.shields.io/badge/Linux_Foundation-LFS162_Intro_to_DevOps_%26_SRE_2026-003778?style=flat-square&logo=linuxfoundation&logoColor=white)
+[![LFS162](https://img.shields.io/badge/Linux_Foundation-LFS162_Intro_to_DevOps_%26_SRE_2026-003778?style=flat-square&logo=linuxfoundation&logoColor=white)](https://www.credly.com/badges/daa578e1-cc10-4f7d-bcaa-de6efba74be7/public_url)
 ![SRE Academy](https://img.shields.io/badge/IBM-SRE_Academy_2025-052fad?style=flat-square&logo=ibm&logoColor=white)
 
 **Data & programming**
-![Python Essentials 1](https://img.shields.io/badge/Cisco-Python_Essentials_1-3776ab?style=flat-square&logo=python&logoColor=white)
-![Python Essentials 2](https://img.shields.io/badge/Cisco-Python_Essentials_2-3776ab?style=flat-square&logo=python&logoColor=white)
+[![Python Essentials 1](https://img.shields.io/badge/Cisco-Python_Essentials_1-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/6e03b785-5104-4cfc-ba60-b98fa68e2672/public_url)
+[![Python Essentials 2](https://img.shields.io/badge/Cisco-Python_Essentials_2-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.credly.com/badges/d420503f-5b82-4ca6-86f0-989babf415b1/public_url)
 ![SQL Essential Training](https://img.shields.io/badge/SQL-Essential_Training-4479a1?style=flat-square&logo=mysql&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-f2c811?style=flat-square&logo=powerbi&logoColor=black)
 ![Hadoop Essentials](https://img.shields.io/badge/Hadoop-Essentials-66ccff?style=flat-square&logo=apachehadoop&logoColor=black)
