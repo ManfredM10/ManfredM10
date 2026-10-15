@@ -27,7 +27,6 @@ I like turning repetitive, error-prone manual work into small, well-tested tools
 **Linux & platforms**
 ![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-c8102e?style=flat-square&logo=comptia&logoColor=white)
 ![Linux System Maintenance](https://img.shields.io/badge/Linux-System_Maintenance-fcc624?style=flat-square&logo=linux&logoColor=black)
-![OpenShift Administration I](https://img.shields.io/badge/Red_Hat-OpenShift_Administration_I_(in_progress)-ee0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![SRE Academy](https://img.shields.io/badge/IBM-SRE_Academy_2025-052fad?style=flat-square&logo=ibm&logoColor=white)
 
 **Data & programming**
@@ -62,7 +61,12 @@ I like turning repetitive, error-prone manual work into small, well-tested tools
 ![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-ee0000?style=flat&logo=redhatopenshift&logoColor=white)
+
+**Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-f46800?style=flat&logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-e6522c?style=flat&logo=prometheus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Automation & data**
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
@@ -80,11 +84,12 @@ I like turning repetitive, error-prone manual work into small, well-tested tools
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**restaurant-simulation-API**](https://github.com/ManfredM10/restaurant-simulation-API) | A FastAPI service that simulates restaurant orders and exposes `/metrics`, deployed on a local Kubernetes cluster with a full observability stack: Prometheus scraping, Alertmanager rules and Grafana dashboards. An SRE lab end to end. | Python · FastAPI · Docker · Kubernetes (Minikube) · Prometheus · Grafana |
 | [**card-installment-tracker**](https://github.com/ManfredM10/card-installment-tracker) [![tests](https://github.com/ManfredM10/card-installment-tracker/actions/workflows/tests.yml/badge.svg)](https://github.com/ManfredM10/card-installment-tracker/actions) | Tracks credit-card purchases financed in installments. Config-driven rules generate an Excel with live formulas; paid installments are inferred from the date. Tests recalculate the workbook with LibreOffice and check it against the Python model. | Python · openpyxl · pytest · Actions |
 | [**landed-cost-pricer**](https://github.com/ManfredM10/landed-cost-pricer) [![tests](https://github.com/ManfredM10/landed-cost-pricer/actions/workflows/tests.yml/badge.svg)](https://github.com/ManfredM10/landed-cost-pricer/actions) | Parses supplier invoice PDFs, allocates freight by weight and fees by value, splits cases into sellable units and prices each one with live margins. | Python · Streamlit · pdfplumber · pandas |
 
-Both grew out of running a small import business on the side: the spreadsheets we filled by
-hand became the spec.
+The last two grew out of running a small import business on the side: the spreadsheets we filled
+by hand became the spec.
 
 ## 📊 GitHub
 
