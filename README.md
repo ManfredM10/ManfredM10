@@ -7,7 +7,7 @@ turning repetitive, error-prone manual work into small, well-tested tools.
 - 🔧 Linux (RHEL, Ubuntu, AIX, Solaris) · Bash & Python automation · Docker/Kubernetes · AWS/Azure
 - 🛡️ IBM QRadar SIEM · CompTIA Security+ · CompTIA Linux+ · CCNA Security
 - 📋 ITIL change management · ServiceNow · Salesforce
-- 🎓 SRE Academy (2025) · OpenShift Administration I (in progress)
+- 🎓 SRE Academy (2025) 
 
 ## Projects
 
