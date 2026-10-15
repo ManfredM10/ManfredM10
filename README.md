@@ -30,6 +30,7 @@ I like turning repetitive, error-prone manual work into small, well-tested tools
 [![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B_(2020)-c8102e?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/earner/earned/share/17584ed5-3eee-4ca7-925d-652909a99b00)
 ![Linux System Maintenance](https://img.shields.io/badge/Linux-System_Maintenance-fcc624?style=flat-square&logo=linux&logoColor=black)
 [![LFS162](https://img.shields.io/badge/Linux_Foundation-LFS162_Intro_to_DevOps_%26_SRE_2026-003778?style=flat-square&logo=linuxfoundation&logoColor=white)](https://www.credly.com/badges/daa578e1-cc10-4f7d-bcaa-de6efba74be7/public_url)
+[![LFS167](https://img.shields.io/badge/Linux_Foundation-LFS167_Introduction_to_Jenkins_2026-003778?style=flat-square&logo=jenkins&logoColor=white)](https://www.credly.com/earner/earned/share/b9d9b4d1-da92-46a9-9cb9-2742745e9b63)
 ![SRE Academy](https://img.shields.io/badge/IBM-SRE_Academy_2025-052fad?style=flat-square&logo=ibm&logoColor=white)
 
 **Data & programming**
@@ -78,6 +79,7 @@ I like turning repetitive, error-prone manual work into small, well-tested tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat&logo=streamlit&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0a9edc?style=flat&logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=flat&logo=jenkins&logoColor=white)
 
 **ITSM**
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81b5a1?style=flat&logo=servicenow&logoColor=white)
