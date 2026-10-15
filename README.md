@@ -27,7 +27,7 @@ I like turning repetitive, error-prone manual work into small, well-tested tools
 ![IBM QRadar](https://img.shields.io/badge/IBM-QRadar_SIEM-052fad?style=flat-square&logo=ibm&logoColor=white)
 
 **Linux & platforms**
-![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-c8102e?style=flat-square&logo=comptia&logoColor=white)
+[![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B_(2020)-c8102e?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/earner/earned/share/17584ed5-3eee-4ca7-925d-652909a99b00)
 ![Linux System Maintenance](https://img.shields.io/badge/Linux-System_Maintenance-fcc624?style=flat-square&logo=linux&logoColor=black)
 [![LFS162](https://img.shields.io/badge/Linux_Foundation-LFS162_Intro_to_DevOps_%26_SRE_2026-003778?style=flat-square&logo=linuxfoundation&logoColor=white)](https://www.credly.com/badges/daa578e1-cc10-4f7d-bcaa-de6efba74be7/public_url)
 ![SRE Academy](https://img.shields.io/badge/IBM-SRE_Academy_2025-052fad?style=flat-square&logo=ibm&logoColor=white)
